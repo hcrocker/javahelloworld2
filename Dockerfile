@@ -1,3 +1,4 @@
+#
 FROM java:7
 RUN mkdir -p mkdir javahelloworld/bin && mkdir javahelloworld/src
 WORKDIR javahelloworld
